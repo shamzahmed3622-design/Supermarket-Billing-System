@@ -1,0 +1,28 @@
+
+  *****************************************************************
+                   *** SUPER MART SUPERMARKET ***                 
+                 Main Commercial Avenue, Block 4                   
+                    Phone: +1 (800) 555-MART                      
+  *****************************************************************
+  Invoice No   : 89234           Date/Time: 2026-11-18 02:00:34
+  Customer Name: hamza           Phone    : 030999088080
+  -----------------------------------------------------------------
+  No.  Item Description           Qty      Price      Total     
+  -----------------------------------------------------------------
+  1    Farm Fresh Brown Eggs (12p 2        Rs.340.00    Rs.680.00   
+  2    Total Defense Toothpaste 1 1        Rs.245.00    Rs.245.00   
+  3    Antibacterial Hand Wash 25 1        Rs.290.00    Rs.290.00   
+  -----------------------------------------------------------------
+  Total Items Purchased     : 4
+  Cart Subtotal             : Rs.1215.00
+  Discount Applied          : -Rs.182.25
+  Sales Tax / GST (5.0%)    : +Rs.51.64
+  =================================================================
+  FINAL GRAND TOTAL         : Rs.1084.39
+  =================================================================
+  Payment Method            : Mobile Wallet
+  -----------------------------------------------------------------
+             Thank you for shopping with Super Mart!               
+                 Please visit us again soon!                      
+  *****************************************************************
+

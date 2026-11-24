@@ -1,0 +1,16 @@
+101|milk 1kg|Dairy|280.00|37
+102|Whole Wheat Bread 400g|Bakery|195.00|30
+103|Farm Fresh Brown Eggs (12pk)|Dairy|340.00|23
+104|Basmati Premium Rice 1kg|Grocery|450.00|48
+105|Pure Cooking Olive Oil 500ml|Cooking|799.00|14
+106|Coca-Cola Classic 1.5L|Beverages|220.00|56
+108|Swiss Dark Chocolate 100g|Confectionery|260.00|33
+109|Instant Arabica Coffee 100g|Beverages|590.00|16
+110|Green Tea Bags (Box of 25)|Beverages|325.00|25
+111|Antibacterial Hand Wash 250ml|Personal Care|290.00|17
+112|Total Defense Toothpaste 100ml|Personal Care|245.00|27
+113|Lemon Fresh Dishwash Liquid|Household|310.00|12
+114|Fine Refined White Sugar 1kg|Grocery|170.00|23
+115|Crunchy Honey Almond Cereal|Breakfast|475.00|6
+116|whole wheat flour 1kg|Grocery|200.00|50
+117|Organic Honey 500g|Grocery|650.00|3

@@ -1,0 +1,28 @@
+
+  *****************************************************************
+                   *** SUPER MART SUPERMARKET ***                 
+                 Main Commercial Avenue, Block 4                   
+                    Phone: +1 (800) 555-MART                      
+  *****************************************************************
+  Invoice No   : 89553           Date/Time: 2026-11-18 02:05:53
+  Customer Name: hamza           Phone    : -
+  -----------------------------------------------------------------
+  No.  Item Description           Qty      Price      Total     
+  -----------------------------------------------------------------
+  1    Green Tea Bags (Box of 25) 1        Rs.325.00    Rs.325.00   
+  2    Instant Arabica Coffee 100 1        Rs.590.00    Rs.590.00   
+  3    Crunchy Honey Almond Cerea 1        Rs.475.00    Rs.475.00   
+  -----------------------------------------------------------------
+  Total Items Purchased     : 3
+  Cart Subtotal             : Rs.1390.00
+  Discount Applied          : -Rs.0.00
+  Sales Tax / GST (5.0%)    : +Rs.69.50
+  =================================================================
+  FINAL GRAND TOTAL         : Rs.1459.50
+  =================================================================
+  Payment Method            : Card
+  -----------------------------------------------------------------
+             Thank you for shopping with Super Mart!               
+                 Please visit us again soon!                      
+  *****************************************************************
+

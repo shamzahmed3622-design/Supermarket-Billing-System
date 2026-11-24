@@ -1,0 +1,29 @@
+
+  *****************************************************************
+                   *** SUPER MART SUPERMARKET ***                 
+                 Main Commercial Avenue, Block 4                   
+                    Phone: +1 (800) 555-MART                      
+  *****************************************************************
+  Invoice No   : 81334           Date/Time: 2026-11-19 00:48:54
+  Customer Name: Muzammil        Phone    : 0300-1234567
+  -----------------------------------------------------------------
+  No.  Item Description           Qty      Price      Total     
+  -----------------------------------------------------------------
+  1    milk 1kg                   3        Rs.280.00    Rs.840.00   
+  2    Basmati Premium Rice 1kg   2        Rs.450.00    Rs.900.00   
+  -----------------------------------------------------------------
+  Total Items Purchased     : 5
+  Cart Subtotal             : Rs.1740.00
+  Discount Applied          : -Rs.174.00
+  Sales Tax / GST (5.0%)    : +Rs.78.30
+  =================================================================
+  FINAL GRAND TOTAL         : Rs.1644.30
+  =================================================================
+  Payment Method            : Cash
+  Cash Tendered             : Rs.2000.00
+  Change Returned to Buyer  : Rs.355.70
+  -----------------------------------------------------------------
+             Thank you for shopping with Super Mart!               
+                 Please visit us again soon!                      
+  *****************************************************************
+
