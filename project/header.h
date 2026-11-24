@@ -17,7 +17,6 @@
 
 /* ============================================================================
                             DATA STRUCTURES
-   (Kept intentionally simple & flat for semester project evaluation)
    ============================================================================ */
 
 // 1. Structure for Mart Product
