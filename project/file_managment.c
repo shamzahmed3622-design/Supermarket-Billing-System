@@ -1,6 +1,29 @@
+/* ============================================================================
+                          FILE HANDLING & PERSISTENCE
+   ============================================================================ */
 #include "header.h"
-//file management functions for inventory and sales history
+//managment of login credentials
+void loadAdminPassword() {
+    FILE *fp = fopen(CONFIG_FILE, "r");
+    if (fp != NULL) {
+        if (fgets(adminPassword, sizeof(adminPassword), fp) != NULL) {
+            size_t len = strlen(adminPassword);
+            if (len > 0 && adminPassword[len - 1] == '\n') {
+                adminPassword[len - 1] = '\0';
+            }
+        }
+        fclose(fp);
+    }
+}
 
+void saveAdminPassword() {
+    FILE *fp = fopen(CONFIG_FILE, "w");
+    if (fp != NULL) {
+        fprintf(fp, "%s\n", adminPassword);
+        fclose(fp);
+    }
+}
+//file management functions for inventory   
 
 void loadInventory() {
     FILE *fp = fopen(INVENTORY_FILE, "r");
@@ -47,7 +70,7 @@ void saveInventory() {
 
     fclose(fp);
 }
-
+//file management for sales records
 void logSaleToFile(struct SalesRecord record) {
     FILE *fp = fopen(SALES_FILE, "a");
     if (fp == NULL) {
