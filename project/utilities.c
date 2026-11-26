@@ -70,27 +70,3 @@ void displayBanner() {
     printf("=================================================================\n\n");
 }
 
-/* ============================================================================
-                          FILE HANDLING & PERSISTENCE
-   ============================================================================ */
-
-void loadAdminPassword() {
-    FILE *fp = fopen(CONFIG_FILE, "r");
-    if (fp != NULL) {
-        if (fgets(adminPassword, sizeof(adminPassword), fp) != NULL) {
-            size_t len = strlen(adminPassword);
-            if (len > 0 && adminPassword[len - 1] == '\n') {
-                adminPassword[len - 1] = '\0';
-            }
-        }
-        fclose(fp);
-    }
-}
-
-void saveAdminPassword() {
-    FILE *fp = fopen(CONFIG_FILE, "w");
-    if (fp != NULL) {
-        fprintf(fp, "%s\n", adminPassword);
-        fclose(fp);
-    }
-}
